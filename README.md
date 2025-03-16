@@ -1,6 +1,7 @@
 ## Hi, I'm Triska 👋
 
 🔭 I'm an Informatics student at Institut Teknologi Sepuluh Nopember
+
 🌱 I’m currently learning Mobile Development and UI/UX Design
 
 ## 🌐 Socials:
